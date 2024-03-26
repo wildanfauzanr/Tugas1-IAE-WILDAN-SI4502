@@ -1,0 +1,23 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 800px;
+}
+
+.table {
+    background-color: #fff;
+}
+
+.team-logo {
+    width: 30px;
+    height: 30px;
+    margin-right: 1px;
+}
+
+
+th {
+    font-weight: bold;
+}
+
